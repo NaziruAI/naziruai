@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Naziru Abdussalam Ibrahim
-I'am a computer engineer, font-end developer using React and a student of data science and machine learning to be, at Arewa Data Science Academy.
+I'am a computer engineer, front-end developer using React and a student of data science and machine learning to be, at Arewa Data Science Academy.
 
 <!--
 **NaziruAI/naziruai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
