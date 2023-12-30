@@ -4,9 +4,7 @@ Hi 👋 My name is Naziru Abdussalam Ibrahim
 *   🌍  I'm based in Kano, Nigeria
 *   ✉️  You can contact me at [naziruabdussalami@gmail.com](mailto:naziruabdussalami@gmail.com)
 *   🧠  I'm learning data science and machine learning using python and also learning front end development using React
-*   ### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
 ### Skills
 
 <p align="left">
